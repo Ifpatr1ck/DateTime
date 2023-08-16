@@ -4,10 +4,7 @@ using System.Globalization;
 
 public class Class1
 {
-    public Class1()
-    {
-        ;
-    }
+
     static void Main(string[] args)
     {
         //Console output date-message: "01.05.2008 08:30:52"
